@@ -1,0 +1,78 @@
+
+body{ background:url(123.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+.signup{
+    background:rgba(44, 62, 80, 0.7) ;
+    width: 250px;
+    padding: 40px;
+    margin-top:-100px;
+    margin-left: 180px;
+    margin: 0 auto;
+    margin-right: 180px;
+    height: 500px;
+
+
+}
+.schoollogo{
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-weight: 60px;
+    margin: 0px;
+}
+input{
+    background: transparent;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    border-bottom: 2px solid blue;
+    height: 25px;
+    width: 200px;
+    color: whitesmoke;
+    transition: border 0.5s;
+    padding: 15px 0px;
+
+
+}
+::placeholder{
+    color: white;
+    font-family: arial;
+
+}
+i{
+    color: white;
+
+}
+button{
+    border: none;
+    color: white;
+    text-align: center;
+    margin-left: 60px;
+    font-size: 20px;
+    width: 190px;
+    padding: 10px 0;
+    border-radius: 25px;
+    cursor: pointer;
+    line-height: 25px;
+}
+button:hover{
+    background: black;
+    color: white;
+}
+.checkbox{
+    color: white;
+    text-align: center;
+
+}
+label{
+    color: white;
+    text-align: center;
+    margin-left: 65px;
+}
